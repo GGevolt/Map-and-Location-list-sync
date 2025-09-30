@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "1",
+    "name": "Hạ Long Bay",
+    "location": {
+      "lat": 20.9103,
+      "lng": 107.1812
+    },
+    "description": "Vịnh Hạ Long là di sản thiên nhiên thế giới, nổi tiếng với hàng nghìn đảo đá vôi và các hang động kỳ vĩ.",
+    "rating": 4.9
+  },
+  {
+    "id": "2",
+    "name": "Phố Cổ Hội An",
+    "location": {
+      "lat": 15.8794,
+      "lng": 108.3364
+    },
+    "description": "Hội An là một thương cảng cổ kính, nơi giao thoa của nhiều nền văn hóa với kiến trúc độc đáo và không khí hoài cổ.",
+    "rating": 4.8
+  },
+  {
+    "id": "3",
+    "name": "Đà Nẵng",
+    "location": {
+      "lat": 16.0544,
+      "lng": 108.2022
+    },
+    "description": "Thành phố biển Đà Nẵng năng động với những bãi biển tuyệt đẹp, cây cầu Rồng phun lửa và các khu du lịch hiện đại.",
+    "rating": 4.7
+  },
+  {
+    "id": "4",
+    "name": "Sapa",
+    "location": {
+      "lat": 22.3458,
+      "lng": 103.8441
+    },
+    "description": "Sapa nổi tiếng với những thửa ruộng bậc thang kỳ vĩ, khung cảnh núi non hùng vĩ và văn hóa các dân tộc thiểu số.",
+    "rating": 4.6
+  },
+  {
+    "id": "5",
+    "name": "Phú Quốc",
+    "location": {
+      "lat": 10.2789,
+      "lng": 103.9535
+    },
+    "description": "Phú Quốc là hòn đảo ngọc với những bãi biển trong xanh, rừng nhiệt đới bạt ngàn và các resort sang trọng.",
+    "rating": 4.7
+  },
+  {
+    "id": "6",
+    "name": "Phong Nha - Kẻ Bàng",
+    "location": {
+      "lat": 17.575,
+      "lng": 106.1246
+    },
+    "description": "Vườn quốc gia Phong Nha - Kẻ Bàng sở hữu hệ thống hang động đá vôi độc đáo và lớn nhất thế giới.",
+    "rating": 4.8
+  },
+  {
+    "id": "7",
+    "name": "Thủ đô Hà Nội",
+    "location": {
+      "lat": 21.0278,
+      "lng": 105.8342
+    },
+    "description": "Hà Nội ngàn năm văn hiến với Hồ Gươm, Phố cổ, các di tích lịch sử và ẩm thực đường phố phong phú.",
+    "rating": 4.5
+  },
+  {
+    "id": "8",
+    "name": "Thành phố Hồ Chí Minh",
+    "location": {
+      "lat": 10.8231,
+      "lng": 106.6297
+    },
+    "description": "Thành phố sôi động với kiến trúc Pháp thuộc địa, các tòa nhà chọc trời và cuộc sống về đêm nhộn nhịp.",
+    "rating": 4.6
+  },
+  {
+    "id": "9",
+    "name": "Cố đô Huế",
+    "location": {
+      "lat": 16.4637,
+      "lng": 107.5909
+    },
+    "description": "Huế là cố đô xưa với những lăng tẩm, đền đài, chùa chiền mang đậm dấu ấn phong kiến và nét đẹp cổ kính.",
+    "rating": 4.7
+  },
+  {
+    "id": "10",
+    "name": "Đà Lạt",
+    "location": {
+      "lat": 11.9404,
+      "lng": 108.4437
+    },
+    "description": "Đà Lạt là thành phố ngàn hoa với khí hậu mát mẻ, những rừng thông xanh ngắt và các hồ thơ mộng.",
+    "rating": 4.8
+  },
+  {
+    "id": "11",
+    "name": "Mũi Né",
+    "location": {
+      "lat": 10.9255,
+      "lng": 108.2435
+    },
+    "description": "Mũi Né nổi tiếng với những đồi cát đỏ và trắng, tạo nên một khung cảnh sa mạc ấn tượng ngay tại Việt Nam.",
+    "rating": 4.5
+  },
+  {
+    "id": "12",
+    "name": "Nha Trang",
+    "location": {
+      "lat": 12.2388,
+      "lng": 109.1967
+    },
+    "description": "Thành phố biển Nha Trang thu hút du khách với bãi biển dài, nước trong xanh và các hòn đảo lân cận.",
+    "rating": 4.6
+  },
+  {
+    "id": "13",
+    "name": "Bán đảo Sơn Trà",
+    "location": {
+      "lat": 16.103,
+      "lng": 108.256
+    },
+    "description": "Bán đảo Sơn Trà được mệnh danh là lá phổi xanh của Đà Nẵng, nơi có hệ sinh thái đa dạng và chùa Linh Ứng nổi tiếng.",
+    "rating": 4.7
+  },
+  {
+    "id": "14",
+    "name": "Cù Lao Chàm",
+    "location": {
+      "lat": 15.9525,
+      "lng": 108.455
+    },
+    "description": "Cù Lao Chàm là quần đảo hoang sơ với bãi biển đẹp và hệ sinh thái biển phong phú, rất thích hợp cho lặn biển.",
+    "rating": 4.6
+  },
+  {
+    "id": "15",
+    "name": "Hang Sơn Đoòng",
+    "location": {
+      "lat": 17.6534,
+      "lng": 106.2758
+    },
+    "description": "Hang Sơn Đoòng là hang động lớn nhất thế giới, một kỳ quan thiên nhiên với hệ sinh thái riêng biệt bên trong.",
+    "rating": 5
+  },
+  {
+    "id": "16",
+    "name": "Lăng Chủ tịch Hồ Chí Minh",
+    "location": {
+      "lat": 21.0368,
+      "lng": 105.8338
+    },
+    "description": "Nơi an nghỉ của Chủ tịch Hồ Chí Minh, một công trình kiến trúc thiêng liêng và trang trọng ở thủ đô Hà Nội.",
+    "rating": 4.7
+  },
+  {
+    "id": "17",
+    "name": "Văn Miếu - Quốc Tử Giám",
+    "location": {
+      "lat": 21.0289,
+      "lng": 105.8362
+    },
+    "description": "Trường đại học đầu tiên của Việt Nam, nơi tôn vinh truyền thống hiếu học và thờ Khổng Tử.",
+    "rating": 4.6
+  },
+  {
+    "id": "18",
+    "name": "Hồ Gươm",
+    "location": {
+      "lat": 21.0282,
+      "lng": 105.8524
+    },
+    "description": "Hồ Hoàn Kiếm là biểu tượng của Hà Nội, nơi có Tháp Rùa, đền Ngọc Sơn và cầu Thê Húc.",
+    "rating": 4.8
+  },
+  {
+    "id": "19",
+    "name": "Nhà thờ Đức Bà",
+    "location": {
+      "lat": 10.7797,
+      "lng": 106.6993
+    },
+    "description": "Nhà thờ được xây dựng theo kiến trúc Gothic của Pháp, là một biểu tượng nổi bật của Thành phố Hồ Chí Minh.",
+    "rating": 4.7
+  },
+  {
+    "id": "20",
+    "name": "Dinh Độc Lập",
+    "location": {
+      "lat": 10.7769,
+      "lng": 106.6953
+    },
+    "description": "Dinh Độc Lập là di tích lịch sử nổi tiếng, từng là nơi ở và làm việc của Tổng thống Việt Nam Cộng hòa.",
+    "rating": 4.6
+  },
+  {
+    "id": "21",
+    "name": "Địa đạo Củ Chi",
+    "location": {
+      "lat": 11.0506,
+      "lng": 106.495
+    },
+    "description": "Hệ thống đường hầm dưới lòng đất rộng lớn, minh chứng cho cuộc chiến tranh của Việt Nam.",
+    "rating": 4.7
+  },
+  {
+    "id": "22",
+    "name": "Bảo tàng Chứng tích Chiến tranh",
+    "location": {
+      "lat": 10.7799,
+      "lng": 106.6934
+    },
+    "description": "Nơi trưng bày những hiện vật, hình ảnh về cuộc chiến tranh Việt Nam, một địa điểm lịch sử quan trọng.",
+    "rating": 4.8
+  },
+  {
+    "id": "23",
+    "name": "Chợ Bến Thành",
+    "location": {
+      "lat": 10.7725,
+      "lng": 106.698
+    },
+    "description": "Một trong những ngôi chợ lâu đời nhất ở TP.HCM, nơi bạn có thể mua sắm và thưởng thức ẩm thực địa phương.",
+    "rating": 4.4
+  },
+  {
+    "id": "24",
+    "name": "Chùa Cầu",
+    "location": {
+      "lat": 15.8767,
+      "lng": 108.3292
+    },
+    "description": "Biểu tượng của Phố cổ Hội An, một ngôi chùa nhỏ độc đáo với kiến trúc Nhật Bản và mái cong mang phong cách Việt.",
+    "rating": 4.9
+  },
+  {
+    "id": "25",
+    "name": "Cầu Vàng",
+    "location": {
+      "lat": 15.9983,
+      "lng": 108.0678
+    },
+    "description": "Cây cầu đi bộ độc đáo được nâng đỡ bởi hai bàn tay khổng lồ, nằm trên đỉnh Bà Nà Hills.",
+    "rating": 5
+  },
+  {
+    "id": "26",
+    "name": "Bà Nà Hills",
+    "location": {
+      "lat": 15.9961,
+      "lng": 108.0682
+    },
+    "description": "Tổ hợp khu nghỉ dưỡng và giải trí trên đỉnh núi, với kiến trúc Pháp, vườn hoa và cáp treo kỷ lục.",
+    "rating": 4.8
+  },
+  {
+    "id": "27",
+    "name": "Tháp Chàm Po Nagar",
+    "location": {
+      "lat": 12.2709,
+      "lng": 109.1979
+    },
+    "description": "Một quần thể kiến trúc Chăm Pa cổ kính, nơi thờ nữ thần Po Ina Nagar, biểu tượng của Nha Trang.",
+    "rating": 4.6
+  },
+  {
+    "id": "28",
+    "name": "Đảo Bình Ba",
+    "location": {
+      "lat": 11.758,
+      "lng": 109.2828
+    },
+    "description": "Hòn đảo quân sự xinh đẹp, nổi tiếng với tôm hùm và những bãi biển hoang sơ, yên bình.",
+    "rating": 4.7
+  },
+  {
+    "id": "29",
+    "name": "Đảo Lý Sơn",
+    "location": {
+      "lat": 15.378,
+      "lng": 109.1026
+    },
+    "description": "Vương quốc tỏi với những bãi biển đá núi lửa độc đáo và cảnh quan hùng vĩ, hoang sơ.",
+    "rating": 4.8
+  },
+  {
+    "id": "30",
+    "name": "Hồ Tuyền Lâm",
+    "location": {
+      "lat": 11.89,
+      "lng": 108.435
+    },
+    "description": "Hồ nước nhân tạo lớn nhất Đà Lạt, được bao quanh bởi rừng thông và các ngôi chùa thiền tịnh.",
+    "rating": 4.6
+  },
+  {
+    "id": "31",
+    "name": "Thung lũng Tình Yêu",
+    "location": {
+      "lat": 11.954,
+      "lng": 108.455
+    },
+    "description": "Điểm du lịch nổi tiếng với những khu vườn hoa lãng mạn, hồ nước và cảnh quan thơ mộng.",
+    "rating": 4.5
+  },
+  {
+    "id": "32",
+    "name": "Mù Cang Chải",
+    "location": {
+      "lat": 21.82,
+      "lng": 104.09
+    },
+    "description": "Những thửa ruộng bậc thang kỳ vĩ được UNESCO công nhận, nơi có cảnh sắc ngoạn mục vào mùa lúa chín.",
+    "rating": 4.9
+  },
+  {
+    "id": "33",
+    "name": "Hồ Ba Bể",
+    "location": {
+      "lat": 22.404,
+      "lng": 105.615
+    },
+    "description": "Hồ nước ngọt tự nhiên lớn nhất Việt Nam, được bao quanh bởi rừng nguyên sinh và núi đá vôi.",
+    "rating": 4.7
+  },
+  {
+    "id": "34",
+    "name": "Cao nguyên đá Đồng Văn",
+    "location": {
+      "lat": 23.275,
+      "lng": 105.35
+    },
+    "description": "Công viên địa chất toàn cầu với cảnh quan núi đá tai mèo hùng vĩ và những cung đường đèo hiểm trở.",
+    "rating": 4.8
+  },
+  {
+    "id": "35",
+    "name": "Cột cờ Lũng Cú",
+    "location": {
+      "lat": 23.3884,
+      "lng": 105.337
+    },
+    "description": "Điểm cực bắc của Việt Nam, nơi có cột cờ Tổ quốc với lá cờ đỏ sao vàng khổng lồ.",
+    "rating": 4.9
+  },
+  {
+    "id": "36",
+    "name": "Thác Bản Giốc",
+    "location": {
+      "lat": 22.8625,
+      "lng": 106.7161
+    },
+    "description": "Một trong những thác nước đẹp và lớn nhất Việt Nam, nằm trên biên giới với Trung Quốc.",
+    "rating": 4.8
+  },
+  {
+    "id": "37",
+    "name": "Tràng An",
+    "location": {
+      "lat": 20.26,
+      "lng": 105.9
+    },
+    "description": "Quần thể danh thắng được UNESCO công nhận với những dãy núi đá vôi, hang động và sông nước uốn lượn.",
+    "rating": 4.9
+  },
+  {
+    "id": "38",
+    "name": "Tam Cốc - Bích Động",
+    "location": {
+      "lat": 20.244,
+      "lng": 105.9
+    },
+    "description": "Được mệnh danh là 'vịnh Hạ Long trên cạn', với các thung lũng lúa và hang động đá vôi.",
+    "rating": 4.7
+  },
+  {
+    "id": "39",
+    "name": "Cúc Phương National Park",
+    "location": {
+      "lat": 20.276,
+      "lng": 105.698
+    },
+    "description": "Vườn quốc gia lâu đời nhất Việt Nam, nơi bảo tồn đa dạng sinh học phong phú và hang động cổ xưa.",
+    "rating": 4.5
+  },
+  {
+    "id": "40",
+    "name": "Quần đảo Côn Đảo",
+    "location": {
+      "lat": 8.718,
+      "lng": 106.621
+    },
+    "description": "Quần đảo với những bãi biển hoang sơ, nước trong xanh và lịch sử nhà tù Côn Đảo.",
+    "rating": 4.8
+  },
+  {
+    "id": "41",
+    "name": "Vinpearl Land",
+    "location": {
+      "lat": 12.2131,
+      "lng": 109.2132
+    },
+    "description": "Khu vui chơi giải trí hàng đầu tại Việt Nam, nằm trên một hòn đảo riêng biệt ở Nha Trang.",
+    "rating": 4.6
+  },
+  {
+    "id": "42",
+    "name": "Tháp Bà Ponagar",
+    "location": {
+      "lat": 12.2709,
+      "lng": 109.1979
+    },
+    "description": "Một quần thể kiến trúc Chăm cổ kính, nơi thờ nữ thần Po Ina Nagar, biểu tượng của Nha Trang.",
+    "rating": 4.7
+  },
+  {
+    "id": "43",
+    "name": "Bãi Dài, Phú Quốc",
+    "location": {
+      "lat": 10.37,
+      "lng": 103.88
+    },
+    "description": "Một trong những bãi biển đẹp nhất Phú Quốc với bờ cát trắng mịn và hàng dừa xanh mát.",
+    "rating": 4.8
+  },
+  {
+    "id": "44",
+    "name": "Suối Tiên",
+    "location": {
+      "lat": 10.8406,
+      "lng": 106.8041
+    },
+    "description": "Một công viên văn hóa và giải trí tại TP.HCM với kiến trúc và chủ đề truyền thống Việt Nam.",
+    "rating": 4.5
+  },
+  {
+    "id": "45",
+    "name": "Bán đảo Đồ Sơn",
+    "location": {
+      "lat": 20.73,
+      "lng": 106.8
+    },
+    "description": "Một khu nghỉ dưỡng biển nổi tiếng ở Hải Phòng, với các bãi tắm và sòng bạc.",
+    "rating": 4.3
+  },
+  {
+    "id": "46",
+    "name": "Cát Bà National Park",
+    "location": {
+      "lat": 20.8,
+      "lng": 107
+    },
+    "description": "Vườn quốc gia trên đảo Cát Bà, nơi có hệ sinh thái đa dạng, rừng nguyên sinh và các hang động.",
+    "rating": 4.6
+  },
+  {
+    "id": "47",
+    "name": "Đảo Titov",
+    "location": {
+      "lat": 20.865,
+      "lng": 107.035
+    },
+    "description": "Một hòn đảo nhỏ tuyệt đẹp tại Vịnh Hạ Long, nơi có bãi tắm và điểm ngắm toàn cảnh vịnh.",
+    "rating": 4.7
+  },
+  {
+    "id": "48",
+    "name": "Hang Sửng Sốt",
+    "location": {
+      "lat": 20.875,
+      "lng": 107.13
+    },
+    "description": "Hang động lớn và đẹp nhất tại Vịnh Hạ Long, với nhiều nhũ đá, măng đá lung linh.",
+    "rating": 4.8
+  },
+  {
+    "id": "49",
+    "name": "Hang Luồn",
+    "location": {
+      "lat": 20.868,
+      "lng": 107.05
+    },
+    "description": "Một hang động nước độc đáo tại Vịnh Hạ Long, nơi du khách có thể chèo thuyền kayak để khám phá.",
+    "rating": 4.6
+  },
+  {
+    "id": "50",
+    "name": "Thung lũng Mai Châu",
+    "location": {
+      "lat": 20.7,
+      "lng": 105
+    },
+    "description": "Thung lũng bình yên với những thửa ruộng xanh mướt và văn hóa dân tộc Thái đặc trưng.",
+    "rating": 4.7
+  },
+  {
+    "id": "51",
+    "name": "Vườn Quốc gia Cát Tiên",
+    "location": {
+      "lat": 11.45,
+      "lng": 107.3
+    },
+    "description": "Khu bảo tồn thiên nhiên với hệ sinh thái đa dạng, nơi có nhiều loài động thực vật quý hiếm.",
+    "rating": 4.5
+  },
+  {
+    "id": "52",
+    "name": "Địa đạo Vịnh Mốc",
+    "location": {
+      "lat": 17.02,
+      "lng": 107.11
+    },
+    "description": "Hệ thống đường hầm dưới lòng đất tại Quảng Trị, nơi dân làng sống và chiến đấu trong chiến tranh.",
+    "rating": 4.6
+  },
+  {
+    "id": "53",
+    "name": "Cổng trời Quản Bạ",
+    "location": {
+      "lat": 23.08,
+      "lng": 105.01
+    },
+    "description": "Một trong những cung đường đèo đẹp nhất Hà Giang, nơi có tầm nhìn bao quát cả thung lũng.",
+    "rating": 4.8
+  },
+  {
+    "id": "54",
+    "name": "Ruộng bậc thang Hoàng Su Phì",
+    "location": {
+      "lat": 22.75,
+      "lng": 104.55
+    },
+    "description": "Những thửa ruộng bậc thang kỳ vĩ được công nhận di sản, nằm ở Hà Giang.",
+    "rating": 4.9
+  },
+  {
+    "id": "55",
+    "name": "Hồ Than Thở",
+    "location": {
+      "lat": 11.954,
+      "lng": 108.455
+    },
+    "description": "Hồ Than Thở là một hồ nước lãng mạn với nhiều câu chuyện tình yêu gắn liền với nó.",
+    "rating": 4.4
+  },
+  {
+    "id": "56",
+    "name": "Hồ Xuân Hương",
+    "location": {
+      "lat": 11.944,
+      "lng": 108.441
+    },
+    "description": "Hồ nước nhân tạo nằm ngay trung tâm thành phố Đà Lạt, là biểu tượng của thành phố.",
+    "rating": 4.7
+  },
+  {
+    "id": "57",
+    "name": "Thác Datanla",
+    "location": {
+      "lat": 11.933,
+      "lng": 108.444
+    },
+    "description": "Thác nước hùng vĩ với nhiều hoạt động phiêu lưu, bao gồm máng trượt và đu dây.",
+    "rating": 4.6
+  },
+  {
+    "id": "58",
+    "name": "Bãi Sau Vũng Tàu",
+    "location": {
+      "lat": 10.339,
+      "lng": 107.086
+    },
+    "description": "Bãi biển dài và đông đúc nhất Vũng Tàu, nơi thu hút nhiều du khách trong và ngoài nước.",
+    "rating": 4.3
+  },
+  {
+    "id": "59",
+    "name": "Hồ Trị An",
+    "location": {
+      "lat": 11.13,
+      "lng": 107.06
+    },
+    "description": "Hồ nước ngọt lớn tại Đồng Nai, nơi lý tưởng cho các hoạt động cắm trại và chèo thuyền.",
+    "rating": 4.5
+  },
+  {
+    "id": "60",
+    "name": "Rừng U Minh Thượng",
+    "location": {
+      "lat": 9.4,
+      "lng": 105.1
+    },
+    "description": "Khu rừng tràm rộng lớn với hệ sinh thái ngập nước đặc trưng ở vùng Đồng bằng sông Cửu Long.",
+    "rating": 4.6
+  },
+  {
+    "id": "61",
+    "name": "Chùa Linh Phước",
+    "location": {
+      "lat": 11.96,
+      "lng": 108.49
+    },
+    "description": "Ngôi chùa nổi tiếng với kiến trúc độc đáo, được làm từ hàng triệu mảnh gốm và sành sứ.",
+    "rating": 4.8
+  },
+  {
+    "id": "62",
+    "name": "Làng cổ Đường Lâm",
+    "location": {
+      "lat": 21.13,
+      "lng": 105.35
+    },
+    "description": "Ngôi làng cổ kính với những ngôi nhà truyền thống, được làm từ đá ong và đất sét.",
+    "rating": 4.7
+  },
+  {
+    "id": "63",
+    "name": "Núi Bà Đen",
+    "location": {
+      "lat": 11.38,
+      "lng": 106.1
+    },
+    "description": "Núi cao nhất Nam Bộ, nơi có chùa Bà Đen linh thiêng và hệ thống cáp treo hiện đại.",
+    "rating": 4.6
+  },
+  {
+    "id": "64",
+    "name": "Khu du lịch sinh thái Tràm Chim",
+    "location": {
+      "lat": 10.55,
+      "lng": 105.75
+    },
+    "description": "Vườn quốc gia với hệ sinh thái ngập nước, là nơi trú ngụ của nhiều loài chim quý hiếm, đặc biệt là sếu đầu đỏ.",
+    "rating": 4.7
+  },
+  {
+    "id": "65",
+    "name": "Làng chài Mũi Né",
+    "location": {
+      "lat": 10.95,
+      "lng": 108.28
+    },
+    "description": "Làng chài truyền thống với những con thuyền đầy màu sắc, nơi du khách có thể mua hải sản tươi ngon.",
+    "rating": 4.5
+  },
+  {
+    "id": "66",
+    "name": "Tháp Po Klong Garai",
+    "location": {
+      "lat": 11.6,
+      "lng": 108.97
+    },
+    "description": "Quần thể tháp Chăm cổ kính ở Ninh Thuận, một di tích lịch sử và văn hóa quan trọng.",
+    "rating": 4.6
+  },
+  {
+    "id": "67",
+    "name": "Biển Cửa Lò",
+    "location": {
+      "lat": 18.78,
+      "lng": 105.7
+    },
+    "description": "Một trong những bãi biển đẹp và nổi tiếng nhất ở Nghệ An, với bờ cát dài và sóng biển êm đềm.",
+    "rating": 4.3
+  },
+  {
+    "id": "68",
+    "name": "Pù Luông Nature Reserve",
+    "location": {
+      "lat": 20.4,
+      "lng": 105.1
+    },
+    "description": "Khu bảo tồn thiên nhiên với những thửa ruộng bậc thang, thác nước và bản làng truyền thống.",
+    "rating": 4.8
+  },
+  {
+    "id": "69",
+    "name": "Hòn Gầm Ghì, Phú Quốc",
+    "location": {
+      "lat": 9.92,
+      "lng": 103.95
+    },
+    "description": "Hòn đảo nhỏ với rạn san hô tuyệt đẹp, nơi lý tưởng cho các hoạt động lặn ngắm san hô.",
+    "rating": 4.7
+  },
+  {
+    "id": "70",
+    "name": "Suối Tranh, Phú Quốc",
+    "location": {
+      "lat": 10.22,
+      "lng": 104.04
+    },
+    "description": "Một con suối nhỏ với thác nước và dòng chảy êm đềm, nằm trong rừng nguyên sinh Phú Quốc.",
+    "rating": 4.4
+  },
+  {
+    "id": "71",
+    "name": "Bãi Sao, Phú Quốc",
+    "location": {
+      "lat": 9.99,
+      "lng": 104.03
+    },
+    "description": "Bãi biển nổi tiếng với bờ cát trắng mịn như kem và hàng dừa cong vút.",
+    "rating": 4.8
+  },
+  {
+    "id": "72",
+    "name": "Lăng Khải Định",
+    "location": {
+      "lat": 16.41,
+      "lng": 107.59
+    },
+    "description": "Lăng mộ của vị vua Khải Định, với kiến trúc độc đáo, kết hợp giữa phong cách Đông - Tây.",
+    "rating": 4.7
+  },
+  {
+    "id": "73",
+    "name": "Lăng Minh Mạng",
+    "location": {
+      "lat": 16.39,
+      "lng": 107.57
+    },
+    "description": "Lăng tẩm của vua Minh Mạng, với kiến trúc cân đối và hài hòa, nằm trong không gian thiên nhiên tĩnh lặng.",
+    "rating": 4.6
+  },
+  {
+    "id": "74",
+    "name": "Chùa Thiên Mụ",
+    "location": {
+      "lat": 16.47,
+      "lng": 107.57
+    },
+    "description": "Ngôi chùa cổ kính nằm trên đồi Hà Khê, nhìn ra sông Hương thơ mộng, biểu tượng của Huế.",
+    "rating": 4.8
+  },
+  {
+    "id": "75",
+    "name": "Hồ Lak",
+    "location": {
+      "lat": 12.38,
+      "lng": 108.1
+    },
+    "description": "Hồ nước ngọt lớn tại Đắk Lắk, nơi bạn có thể khám phá văn hóa các dân tộc thiểu số và cưỡi voi.",
+    "rating": 4.5
+  },
+  {
+    "id": "76",
+    "name": "Cánh đồng quạt gió Bạc Liêu",
+    "location": {
+      "lat": 9.17,
+      "lng": 105.74
+    },
+    "description": "Một cánh đồng với hàng trăm tuabin gió khổng lồ, tạo nên một khung cảnh ấn tượng và độc đáo.",
+    "rating": 4.4
+  },
+  {
+    "id": "77",
+    "name": "Rừng Tràm Trà Sư",
+    "location": {
+      "lat": 10.51,
+      "lng": 105.02
+    },
+    "description": "Khu rừng ngập nước với hệ sinh thái đa dạng, nơi du khách có thể đi thuyền để khám phá.",
+    "rating": 4.7
+  },
+  {
+    "id": "78",
+    "name": "Cù Lao Câu",
+    "location": {
+      "lat": 11.23,
+      "lng": 109.28
+    },
+    "description": "Một hòn đảo nhỏ hoang sơ với những bãi đá hình thù kỳ lạ và nước biển trong xanh.",
+    "rating": 4.8
+  },
+  {
+    "id": "79",
+    "name": "Núi Chứa Chan",
+    "location": {
+      "lat": 10.95,
+      "lng": 107.41
+    },
+    "description": "Núi Chứa Chan là ngọn núi cao thứ hai ở Nam Bộ, nổi tiếng với chùa Bửu Quang.",
+    "rating": 4.5
+  },
+  {
+    "id": "80",
+    "name": "Cổng Tò Vò, Đảo Lý Sơn",
+    "location": {
+      "lat": 15.378,
+      "lng": 109.1026
+    },
+    "description": "Một cổng đá tự nhiên độc đáo được hình thành từ dung nham núi lửa, là biểu tượng của Lý Sơn.",
+    "rating": 4.9
+  },
+  {
+    "id": "81",
+    "name": "Đảo Nam Du",
+    "location": {
+      "lat": 9.7,
+      "lng": 104.28
+    },
+    "description": "Quần đảo hoang sơ với những bãi biển tuyệt đẹp và không khí trong lành, thích hợp cho du lịch tự túc.",
+    "rating": 4.7
+  },
+  {
+    "id": "82",
+    "name": "Hồ Ea Kao",
+    "location": {
+      "lat": 12.6,
+      "lng": 108.1
+    },
+    "description": "Một hồ nước nhân tạo ở Đắk Lắk, nơi có cảnh quan yên bình và các hoạt động câu cá, dã ngoại.",
+    "rating": 4.4
+  },
+  {
+    "id": "83",
+    "name": "Núi Bạch Mã",
+    "location": {
+      "lat": 16.14,
+      "lng": 107.82
+    },
+    "description": "Dãy núi nổi tiếng với khí hậu mát mẻ và hệ sinh thái đa dạng, nơi có nhiều thác nước và suối.",
+    "rating": 4.6
+  },
+  {
+    "id": "84",
+    "name": "Đồi Cát Bay",
+    "location": {
+      "lat": 10.95,
+      "lng": 108.23
+    },
+    "description": "Đồi cát lớn nhất ở Mũi Né, nơi bạn có thể trải nghiệm trượt cát và ngắm hoàng hôn.",
+    "rating": 4.8
+  },
+  {
+    "id": "85",
+    "name": "Suối Hồng",
+    "location": {
+      "lat": 10.93,
+      "lng": 108.24
+    },
+    "description": "Suối nước với dòng chảy đỏ cam độc đáo, tạo nên một khung cảnh ấn tượng tại Mũi Né.",
+    "rating": 4.7
+  },
+  {
+    "id": "86",
+    "name": "Cầu Rồng Đà Nẵng",
+    "location": {
+      "lat": 16.06,
+      "lng": 108.22
+    },
+    "description": "Cây cầu nổi tiếng với kiến trúc hình rồng, có khả năng phun lửa và nước vào cuối tuần.",
+    "rating": 4.9
+  },
+  {
+    "id": "87",
+    "name": "Ngũ Hành Sơn",
+    "location": {
+      "lat": 16,
+      "lng": 108.27
+    },
+    "description": "Quần thể 5 ngọn núi đá vôi, nơi có nhiều hang động và chùa chiền linh thiêng.",
+    "rating": 4.7
+  },
+  {
+    "id": "88",
+    "name": "Bán đảo Sơn Trà",
+    "location": {
+      "lat": 16.1,
+      "lng": 108.27
+    },
+    "description": "Bán đảo Sơn Trà được mệnh danh là lá phổi xanh của Đà Nẵng, nơi có hệ sinh thái đa dạng và chùa Linh Ứng nổi tiếng.",
+    "rating": 4.8
+  },
+  {
+    "id": "89",
+    "name": "Cầu quay sông Hàn",
+    "location": {
+      "lat": 16.06,
+      "lng": 108.22
+    },
+    "description": "Cây cầu quay độc đáo ở Đà Nẵng, là biểu tượng của sự phát triển và hiện đại của thành phố.",
+    "rating": 4.5
+  },
+  {
+    "id": "90",
+    "name": "Cù Lao Xanh",
+    "location": {
+      "lat": 13.72,
+      "lng": 109.43
+    },
+    "description": "Hòn đảo hoang sơ với nước biển trong xanh và cảnh quan tuyệt đẹp, thích hợp cho du lịch khám phá.",
+    "rating": 4.6
+  },
+  {
+    "id": "91",
+    "name": "Đầm Lập An",
+    "location": {
+      "lat": 16.32,
+      "lng": 107.97
+    },
+    "description": "Đầm nước lợ nổi tiếng với vẻ đẹp thơ mộng và là nơi lý tưởng để ngắm bình minh và hoàng hôn.",
+    "rating": 4.7
+  },
+  {
+    "id": "92",
+    "name": "Hồ Tà Đùng",
+    "location": {
+      "lat": 11.89,
+      "lng": 107.82
+    },
+    "description": "Được ví như 'vịnh Hạ Long của Tây Nguyên' với hàng chục hòn đảo nhỏ nổi trên mặt hồ.",
+    "rating": 4.8
+  },
+  {
+    "id": "93",
+    "name": "Làng chài Cửa Vạn",
+    "location": {
+      "lat": 20.91,
+      "lng": 107.13
+    },
+    "description": "Làng chài nổi nổi tiếng tại Vịnh Hạ Long, nơi du khách có thể khám phá cuộc sống của người dân địa phương.",
+    "rating": 4.6
+  },
+  {
+    "id": "94",
+    "name": "Bảo tàng Lịch sử Quốc gia",
+    "location": {
+      "lat": 21.03,
+      "lng": 105.85
+    },
+    "description": "Bảo tàng lưu giữ và trưng bày các hiện vật về lịch sử Việt Nam qua các thời kỳ.",
+    "rating": 4.5
+  },
+  {
+    "id": "95",
+    "name": "Chùa Hương",
+    "location": {
+      "lat": 20.73,
+      "lng": 105.77
+    },
+    "description": "Quần thể chùa và đền thờ Phật giáo nổi tiếng, nằm trong một thung lũng đá vôi, thường tổ chức lễ hội vào đầu năm.",
+    "rating": 4.7
+  },
+  {
+    "id": "96",
+    "name": "Nhà tù Hỏa Lò",
+    "location": {
+      "lat": 21.02,
+      "lng": 105.84
+    },
+    "description": "Một nhà tù cũ của Pháp, nay là bảo tàng lưu giữ lịch sử và cuộc sống của các tù nhân chính trị.",
+    "rating": 4.6
+  },
+  {
+    "id": "97",
+    "name": "Hồ Lắk",
+    "location": {
+      "lat": 12.38,
+      "lng": 108.1
+    },
+    "description": "Hồ nước ngọt lớn tại Đắk Lắk, nơi bạn có thể khám phá văn hóa các dân tộc thiểu số và cưỡi voi.",
+    "rating": 4.5
+  },
+  {
+    "id": "98",
+    "name": "Làng Văn hóa Du lịch các dân tộc Việt Nam",
+    "location": {
+      "lat": 21.02,
+      "lng": 105.76
+    },
+    "description": "Khu bảo tồn và tái hiện kiến trúc, văn hóa của các dân tộc Việt Nam.",
+    "rating": 4.4
+  },
+  {
+    "id": "99",
+    "name": "Cảng Cái Rồng",
+    "location": {
+      "lat": 21.02,
+      "lng": 107.45
+    },
+    "description": "Cảng chính ở Vân Đồn, Quảng Ninh, là điểm khởi hành đi thăm các hòn đảo như Cô Tô, Quan Lạn.",
+    "rating": 4.3
+  },
+  {
+    "id": "100",
+    "name": "Quần thể danh thắng Yên Tử",
+    "location": {
+      "lat": 21.14,
+      "lng": 106.84
+    },
+    "description": "Quần thể núi non và di tích lịch sử, nơi khởi nguồn của thiền phái Trúc Lâm.",
+    "rating": 4.8
+  }
+]

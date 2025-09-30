@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "baseUrl": ".",
+    "module": "commonjs",
+    "target": "es2016",
+    "jsx": "preserve",
+    "checkJs": true,
+    "paths": {
+      "@/*": ["./src/*"],
+      "@assets/*": ["src/assets/*"],
+      "@utils/*": ["./src/utils/*"],
+      "@data/*": ["./src/data/*"]
+    }
+  }
+}
